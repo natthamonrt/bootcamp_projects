@@ -13,5 +13,3 @@ We learn 10 sprints during 4 months program.
 - Intro to Python
 - Essential Python for Data Analyst
 - Dashboard
-
-Badges : 
