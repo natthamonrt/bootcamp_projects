@@ -24,5 +24,5 @@ There are **projects/homeworks** which I have done during this bootcamp.
 - PaoYingChub.R - a chatbot for playing Rock, Paper and Scissors with R Programming
 - data_transformation.pdf - analyze data of "nycflights13" database that be transformed with R Programming
 - data_viz.pdf - visualize data of "diamonds" database by using ggplot2 and tidyverse packages
-- titanic_survival_prediction.pdf - analyze titanic survival prediction with R programming 
+- titanic_survival_prediction.pdf - analyze titanic survival prediction by using statistics fundamental with R programming 
 - web_scraping_project.pdf - webscraping static websites (top 50 imdb movies by rating and Samsung phone from SpecPhone) using rvest package
