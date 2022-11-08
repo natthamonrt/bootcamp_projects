@@ -1,3 +1,4 @@
+link : https://replit.com/@naththmnratnsur/Batch06PaoYingChub?v=1
 # pao ying chub
 # unlimited times to play
 # when player type key to stop, show all results (win, loss and tie)
