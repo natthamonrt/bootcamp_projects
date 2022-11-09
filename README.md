@@ -20,8 +20,8 @@ There are **projects/homeworks** which I have done during this bootcamp.
 - To analyze data by creating a small database of a restaurant that consists of 1 fact table and 4 dimension tables.
 
 **R Programming** 
-- OrderingPizza.R - a chatbot for taking orders of pizza restaurant with R Programming
-- PaoYingChub.R - a chatbot for playing Rock, Paper and Scissors with R Programming
+- OrderingPizza.R - a chatbot for taking orders of pizza restaurant with R Programming [Run this code](https://replit.com/@naththmnratnsur/Batch06ChatbotPizza?v=1).
+- PaoYingChub.R - a chatbot for playing Rock, Paper and Scissors with R Programming [run this code](https://replit.com/@naththmnratnsur/Batch06PaoYingChub?v=1).
 - data_transformation.pdf - analyze data of "nycflights13" database that be transformed with R Programming
 - data_viz.pdf - visualize data of "diamonds" database by using ggplot2 and tidyverse packages
 - titanic_survival_prediction.pdf - analyze titanic survival prediction by using statistics fundamental with R programming 
