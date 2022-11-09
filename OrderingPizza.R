@@ -1,4 +1,4 @@
-link : [https://replit.com/@naththmnratnsur/Batch06ChatbotPizza?v=1]
+link : (https://replit.com/@naththmnratnsur/Batch06ChatbotPizza?v=1)
 
 # readLines("stdin",n=1) 
 # stdin = starndard input from console, n=1 to get one input
