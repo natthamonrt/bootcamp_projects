@@ -22,7 +22,10 @@ There are **projects/homeworks** which I have done during this bootcamp.
 **R Programming** 
 - OrderingPizza.R - a chatbot for taking orders of pizza restaurant with R Programming [Let's play!](https://replit.com/@naththmnratnsur/Batch06ChatbotPizza?v=1).
 - PaoYingChub.R - a chatbot for playing Rock, Paper and Scissors with R Programming [Let's play!](https://replit.com/@naththmnratnsur/Batch06PaoYingChub?v=1).
-- data_transformation.pdf - analyze data of "nycflights13" database that be transformed with R Programming
+- data_transformation.pdf - analyze data of "nycflights13" database that be transformed with R Programming [Go to website](https://datalore.jetbrains.com/view/notebook/JffCb7liwsqSSiHBCOFjhk).
 - data_viz.pdf - visualize data of "diamonds" database by using ggplot2 and tidyverse packages
 - titanic_survival_prediction.pdf - analyze titanic survival prediction by using statistics fundamental with R programming 
 - web_scraping_project.pdf - webscraping static websites (top 50 imdb movies by rating and Samsung phone from SpecPhone) using rvest package
+
+**Python Programming**
+- pandas_foundation_mini_project - analysing sales data with pandas [Go to website](https://datalore.jetbrains.com/view/notebook/jTEcBv1vmK94junjUr2pMf).
