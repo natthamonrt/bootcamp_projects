@@ -28,4 +28,4 @@ There are **projects/homeworks** which I have done during this bootcamp.
 - web_scraping_project.pdf - webscraping static websites (top 50 imdb movies by rating and Samsung phone from SpecPhone) using rvest package
 
 **Python Programming**
-- pandas_foundation_mini_project - analysing sales data with pandas [Go to website](https://datalore.jetbrains.com/view/notebook/jTEcBv1vmK94junjUr2pMf).
+- pandas_foundation_mini_project.pdf - analysing sales data with pandas [Go to website](https://datalore.jetbrains.com/view/notebook/jTEcBv1vmK94junjUr2pMf).
