@@ -25,7 +25,7 @@ There are **projects/homeworks** which I have done during this bootcamp.
 - data_transformation.pdf - analyze data of "nycflights13" database that be transformed with R Programming [Go to website](https://datalore.jetbrains.com/view/notebook/JffCb7liwsqSSiHBCOFjhk).
 - data_viz.pdf - visualize data of "diamonds" database by using ggplot2 and tidyverse packages
 - titanic_survival_prediction.pdf - analyze titanic survival prediction by using statistics fundamental with R programming 
-- web_scraping_project.pdf - webscraping static websites (top 50 imdb movies by rating and Samsung phone from SpecPhone) using rvest package
+- web_scraping_project.pdf - webscraping static websites (top 50 imdb movies by rating and Samsung phone from SpecPhone) using rvest package [Go to website](https://datalore.jetbrains.com/view/notebook/pNph0ci6emj4yQLkiTC0kz).
 
 **Python Programming**
 - Pandas Foundation Mini Project.pdf - analysing sales data with pandas [Go to website](https://datalore.jetbrains.com/view/notebook/jTEcBv1vmK94junjUr2pMf).
