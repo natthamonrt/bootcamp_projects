@@ -29,3 +29,5 @@ There are **projects/homeworks** which I have done during this bootcamp.
 
 **Python Programming**
 - pandas_foundation_mini_project.pdf - analysing sales data with pandas [Go to website](https://datalore.jetbrains.com/view/notebook/jTEcBv1vmK94junjUr2pMf).
+- Pao Ying Chub Game with python - create a chatbot for playing Rock, Paper and Scissors with python [Go to website](https://datalore.jetbrains.com/view/notebook/gMSmTRTrPtvlOmKatKsvUH).
+- ATM Simulation with OOP.pdf - create ATM Simulation with OOP python [Go to website](https://datalore.jetbrains.com/view/notebook/KJjSJdQ6ApBUmu5m6q4Jx8).
