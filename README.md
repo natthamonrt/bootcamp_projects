@@ -31,3 +31,7 @@ There are **projects/homeworks** which I have done during this bootcamp.
 - Pandas Foundation Mini Project.pdf - analysing sales data with pandas [Go to website](https://datalore.jetbrains.com/view/notebook/jTEcBv1vmK94junjUr2pMf).
 - Pao Ying Chub Game with python.pdf - create a chatbot for playing Rock, Paper and Scissors with python [Go to website](https://datalore.jetbrains.com/view/notebook/gMSmTRTrPtvlOmKatKsvUH).
 - ATM Simulation with OOP.pdf - create ATM Simulation with OOP python [Go to website](https://datalore.jetbrains.com/view/notebook/KJjSJdQ6ApBUmu5m6q4Jx8).
+
+**Spreadsheet**
+- mtcars_linear_regression_analysis - predict data and analyze correlation of variables in mtcars dataset with linear regression in google sheets. [Go to ggsheet](https://docs.google.com/spreadsheets/d/1wDBBLAODeUm5xBgIbY1rsgQBhGhhvzvngHrr-S7R8cc/edit#gid=1210138163)
+- imdb_ab_testing_analysis - compare the average length of PG vs. PG-13 films in imdb dataset using AB testing in google sheets [Go to ggsheet](https://docs.google.com/spreadsheets/d/1wDBBLAODeUm5xBgIbY1rsgQBhGhhvzvngHrr-S7R8cc/edit#gid=21697411)
