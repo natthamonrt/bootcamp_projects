@@ -38,4 +38,4 @@ There are **projects/homeworks** which I have done during this bootcamp.
 - imdb_ab_testing_analysis - compare the average length of PG vs. PG-13 films in imdb dataset using AB testing in google sheets [Go to gg-sheet](https://docs.google.com/spreadsheets/d/1wDBBLAODeUm5xBgIbY1rsgQBhGhhvzvngHrr-S7R8cc/edit#gid=21697411)
 
 **Dashboard**
-- LookerStudio_Inc._5000_companies_in_USA.pdf - analyse dataset of the 5000 fastest growth Inc. companies by Looker Studio. [Go to dashboard](https://datastudio.google.com/reporting/436b5363-4011-49f7-ac63-21b369d8ef53)
+- LookerStudio_Inc._5000_companies_in_USA.pdf - analyse dataset of the 5000 fastest growth Inc. companies by Looker Studio. [Go to dashboard](https://datastudio.google.com/reporting/436b5363-4011-49f7-ac63-21b369d8ef53).
