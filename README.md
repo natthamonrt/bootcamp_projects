@@ -43,4 +43,4 @@ There are **projects/homeworks** which I have done during this bootcamp.
 - Tableau_CatvsDog_Popularity_in_USA - visualise and summarise dataset of population and ownership of dogs and cats by household broken down by state using Tableau Public. [Go to dashboard](https://public.tableau.com/views/CatvsDogPopularityintheUSA/CatvsDogPopularityinUSA?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 **Badge**
-[more](https://badgr.com/public/assertions/w7bLE05LREK10l3WDDzieQ)
+[Certified Professional Data Analyst](https://badgr.com/public/assertions/w7bLE05LREK10l3WDDzieQ)
