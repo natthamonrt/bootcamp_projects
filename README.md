@@ -18,7 +18,7 @@ There are **mini projects/homeworks** which I have done during this bootcamp.
 
 **SQL Database**
 ---
-- To analyze data by creating a small database of a restaurant that consists of 1 fact table and 4 dimension tables.
+- To analyze data by creating a small database of a restaurant that consists of 1 fact table and 4 dimension tables. [Go to replit](https://replit.com/@naththmnratnsur/SQLhomeworkbatch6#main.sql)
 
 **R Programming** 
 ---
