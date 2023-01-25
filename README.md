@@ -14,9 +14,10 @@ I learn 10 sprints during 4 months program.
 - Essential Python for Data Analyst
 - Dashboard
 
-There are **projects/homeworks** which I have done during this bootcamp.
+There are **mini projects/homeworks** which I have done during this bootcamp.
 
-**SQL Database** 
+**SQL Database**
+---
 - To analyze data by creating a small database of a restaurant that consists of 1 fact table and 4 dimension tables.
 
 **R Programming** 
